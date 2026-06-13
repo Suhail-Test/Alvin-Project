@@ -19,7 +19,7 @@ Functionalities :
 
 #include <stdio.h>
 #include "contact.h"
-
+// Don't worry we are about to complete
 int main()
 {
     /* Variable and structre defintion */
