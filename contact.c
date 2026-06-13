@@ -6,7 +6,7 @@
 int count=0,arr[10]={0};
 
 // Function definitions
-
+// I have resolved it
 void init_intitalization(AddressBook *addressbook)  //reading contacts from file
 {
     FILE *fp = fopen("AddressBook.csv", "r");
